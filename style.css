@@ -1,0 +1,62 @@
+/*1d3557*/
+body {
+  color: #1d3557;
+  background-color: #f1faee;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  line-height:1.5;
+  text-align: justify;
+
+}
+
+h1, h2, h3 {
+  font-family: 'Crimson Text', serif;
+  color: #F63946;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  line-height:1.5;
+}
+
+  div {
+  border-top: 1px solid red;
+  border-right: 2px dotted black;
+  border-bottom: 1px dashed green;
+  border-left: 2px dotted black;
+}
+
+a {
+color:blue;
+}
+
+a:hover {
+  color:orange;
+}
+
+.opening {
+  background-color: #BAE8EC;
+  width: 500px;
+  margin:0 auto;
+  text-align: center;
+}
+
+#thierryvoiture{
+  width: 20%;
+  margin-bottom: 30px;
+  margin:0 auto0;
+}
+.favourite {
+    background-color: #BAE8EC;
+  width: 750px;
+  margin:0 auto;
+  text-align: center;
+width: 500px;   /* This sets the width */
+  margin: 0 auto;
+}
+.myaddiction {
+    background-color: #BAE8EC;
+  width: 750px;
+  margin:0 auto;
+  text-align: center;
+  margin: 25;
+}
